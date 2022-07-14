@@ -4,7 +4,7 @@
 
 Linux/Macos
 ```
-mvn spring-boot:run -Dspring-boot:run.arguments=--dataDir=/opt/tmp/data
+mvn spring-boot:run -Dspring-boot.run.arguments=--dataDir=/Users/cws/code/VISA-SDF/LessonCode/SSF 
 ```
 
 * Incorporate test started dependencies to pom.xml
